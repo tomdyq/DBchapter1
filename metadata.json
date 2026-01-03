@@ -1,0 +1,5 @@
+{
+  "name": "DB-Intro-Visualizer",
+  "description": "An interactive educational visualization for Chapter 1 of Database Systems, featuring animated diagrams and interactive concepts.",
+  "requestFramePermissions": []
+}
